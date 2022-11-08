@@ -82,7 +82,7 @@ h2{
 }
 @keyframes js-fill {
     100%{
-        width: 72%;
+        width: 50%;
     }
 }
 #jQuery-bar{
@@ -90,6 +90,6 @@ h2{
 }
 @keyframes jQuery-fill{
     100%{
-        width: 58%;
+        width: 25%;
     }
 } 
